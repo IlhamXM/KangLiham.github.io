@@ -1,15 +1,15 @@
 # site settings
-title: Kry9toN
+title: KangLiham
 subtitle:
-email: dhimasbagusprayoga@gmail.com
+email: beatone25@gmail.com
 description: User android and Linux, Owner custom rom android and custom kernel android
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Kry9toN
+author: Kang Liham
 street_address:
-city: Blitar
-state: Jawa timur
-zip_code: 66155
+city: Kawali
+state: Jawa Barat
+zip_code: 46253
 country: Indonesia
 
 # homepage tiles
@@ -17,9 +17,9 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-github_url: https://github.com/kry9ton
-instagram_url: https://instagram.com/dhimasbpy
-telegram_url: https://t.me/kry9ton
+github_url: https://github.com/IlhamXM
+instagram_url: https://instagram.com/liham_xm
+telegram_url: https://t.me/XV_LXM
 # build settings
 markdown: kramdown
 
